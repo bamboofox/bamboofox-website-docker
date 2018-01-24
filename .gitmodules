@@ -1,0 +1,3 @@
+[submodule "bamboofox-website"]
+	path = bamboofox-website
+	url = https://github.com/bamboofox/bamboofox-website.git
